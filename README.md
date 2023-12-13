@@ -2,4 +2,7 @@
 - 🖥 Estudo Desenvolvimento Web e Java
 - 💻 email para contato: adryangeorgem@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geor-dev)](https://github.com/geor-dev)
+![Estatísticas Adryan](https://github-readme-stats.vercel.app/api?username=geor-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geor-dev&hide_progress=true)
+
